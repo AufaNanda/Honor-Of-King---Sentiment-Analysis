@@ -4,7 +4,7 @@ Honor of Kings is a globally renowned mobile MOBA that achieved massive populari
 # Objective
 - Conduct sentiment analysis on Indonesian-language user reviews of the Honor of Kings game from the Google Play Store.
 - Evaluate and label review sentiment polarity (positive or negative) using a lexicon-based approach.
-- Compare the accuracy performance of several Machine Learning algorithms (Naive Bayes, Random Forest, Logistic Regression, and Decision Tree) to identify the best classification model.
+- Compare the accuracy performance of several Machine Learning algorithms (Naive Bayes, Random Forest, Logistic Regression, and Decision Tree) and Deep Learning algorithms (RNN, GRU, LSTM) to identify the best classification model.
 
 # Library
 - Library google_play_scraper
@@ -22,3 +22,4 @@ Honor of Kings is a globally renowned mobile MOBA that achieved massive populari
 - Library string
 - Library datetime
 - Library io
+- Library tensorflow
